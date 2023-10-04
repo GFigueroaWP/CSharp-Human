@@ -1,0 +1,15 @@
+E:\Training\CodingDojo\C#\3.C#-Fundamentals\Human\obj\Debug\net6.0\Human.csproj.AssemblyReference.cache
+E:\Training\CodingDojo\C#\3.C#-Fundamentals\Human\obj\Debug\net6.0\Human.GeneratedMSBuildEditorConfig.editorconfig
+E:\Training\CodingDojo\C#\3.C#-Fundamentals\Human\obj\Debug\net6.0\Human.AssemblyInfoInputs.cache
+E:\Training\CodingDojo\C#\3.C#-Fundamentals\Human\obj\Debug\net6.0\Human.AssemblyInfo.cs
+E:\Training\CodingDojo\C#\3.C#-Fundamentals\Human\obj\Debug\net6.0\Human.csproj.CoreCompileInputs.cache
+E:\Training\CodingDojo\C#\3.C#-Fundamentals\Human\bin\Debug\net6.0\Human.exe
+E:\Training\CodingDojo\C#\3.C#-Fundamentals\Human\bin\Debug\net6.0\Human.deps.json
+E:\Training\CodingDojo\C#\3.C#-Fundamentals\Human\bin\Debug\net6.0\Human.runtimeconfig.json
+E:\Training\CodingDojo\C#\3.C#-Fundamentals\Human\bin\Debug\net6.0\Human.dll
+E:\Training\CodingDojo\C#\3.C#-Fundamentals\Human\bin\Debug\net6.0\Human.pdb
+E:\Training\CodingDojo\C#\3.C#-Fundamentals\Human\obj\Debug\net6.0\Human.dll
+E:\Training\CodingDojo\C#\3.C#-Fundamentals\Human\obj\Debug\net6.0\refint\Human.dll
+E:\Training\CodingDojo\C#\3.C#-Fundamentals\Human\obj\Debug\net6.0\Human.pdb
+E:\Training\CodingDojo\C#\3.C#-Fundamentals\Human\obj\Debug\net6.0\Human.genruntimeconfig.cache
+E:\Training\CodingDojo\C#\3.C#-Fundamentals\Human\obj\Debug\net6.0\ref\Human.dll
